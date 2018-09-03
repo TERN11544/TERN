@@ -1,0 +1,18 @@
+/*creat a program: product name,price,pieces,if total<500-2%, total>501-5% */
+#include<stdio.h>
+#include<stdlib.h>
+main()
+{
+	char name[15];
+	int price;
+	int pieces;
+	int net_price;
+	printf("Product name:");
+	scanf("%s",name);
+	printf("Price:");
+	scanf("%d",&price);
+	printf("pieces:");
+	scnf("%d",&pieces);
+	net_price=price*pieces;
+	if
+	
