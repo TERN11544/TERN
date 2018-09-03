@@ -1,4 +1,4 @@
-/*creat a program: product name,price,pieces,if total<500-2%, total>501-5% */
+/*creat a program: product name,price,pieces,if total<500-2%, total>501-5%  */
 #include<stdio.h>
 #include<stdlib.h>
 main()
