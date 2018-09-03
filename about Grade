@@ -1,3 +1,13 @@
+/* Creat program: input subject name,test 2 times
+if <50 = 0
+50-54 =1
+55-54 =1.5
+60-64 =2
+65-69 =2.5
+70-74 =3
+75-79 =3.5
+>80 =4*/
+
 #include<stdio.h>
 #include<stdlib.h>
 main()
